@@ -46,4 +46,3 @@ Order ||--|| Shipment : shipped_via
         tracking_number string
         delivery_status string
     }
-    ```
