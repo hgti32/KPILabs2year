@@ -26,6 +26,7 @@ Order ||--|| Shipment : shipped_via
     }
     Cart {
         session_id string
+        user_id string
     }
     CartItem {
         quantity int
