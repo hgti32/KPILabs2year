@@ -1,4 +1,4 @@
-# Spec for data model: B2C Clothing Store
+# Spec for data model: Clothing Store
 
 ## 1. Намір (Intention)
 
